@@ -1,0 +1,6 @@
+{
+  "name": "eSchool Nigeria Portal",
+  "description": "A comprehensive, full-stack School Management System mimicking eSchool Nigeria, featuring Admin, Teacher, Student, and Parent portals with results compilation, fee tracking, CBT, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
